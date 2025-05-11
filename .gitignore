@@ -32,4 +32,5 @@ Makefile
 
 # coin toss result
 coin.txt
+*.png
 
