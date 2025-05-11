@@ -1,0 +1,35 @@
+# C++ build files
+a.out
+*.o
+*.out
+*.exe
+
+# Editor swap and backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# macOS / Linux / Windows OS clutter
+.DS_Store
+Thumbs.db
+
+# CMake or other build systems
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# LaTeX:
+*.aux
+*.log
+*.pdf
+*.toc
+*.synctex.gz
+*.out
+*.fls
+*.fdb_latexmk
+
+# coin toss result
+coin.txt
+
